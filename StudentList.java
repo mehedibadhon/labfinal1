@@ -89,7 +89,8 @@ public class StudentList {
 			}
 			System.out.println(count +" word(s) found " + a.length);
 			} catch (Exception e){} 
-			System.out.println("Data Loaded.");				
+			System.out.println("Data Loaded.");	
+         cse   			
 		}
 	}
 }
